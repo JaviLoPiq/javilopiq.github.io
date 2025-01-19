@@ -7,11 +7,5 @@ title: "Home"
 permalink: /
 ---
 
-Welcome to my research site! I’m a quantum computing researcher at Nasdaq.  
+Welcome to my research site! I’m an Applied Research Scientist specializing in Quantum-Inspired Classical Algorithms as part of the [Global Technology Applied Research (GTAR)](https://www.jpmorgan.com/technology/applied-research) team at [JP Morgan Chase](https://www.jpmorganchase.com).  
 Here, you can learn about my background, current research, and recent publications, and how to get in touch.
-
-<br>
-
-<div style="margin-top: 2rem; font-style: italic;">
-  “This is all I do, just make obvious observations.” — Po-Shen Loh
-</div>
