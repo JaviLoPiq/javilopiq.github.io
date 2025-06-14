@@ -7,6 +7,6 @@ title: "Home"
 permalink: /
 ---
 
-Welcome to my research site! I’m an Applied Research Scientist specializing in Quantum-Inspired and Randomized Algorithms as part of the [Global Technology Applied Research (GTAR)](https://www.jpmorgan.com/technology/applied-research) team at [JP Morgan Chase](https://www.jpmorganchase.com).  
+Welcome to my research site! I’m an Applied Research Scientist at the [Global Technology Applied Research (GTAR)](https://www.jpmorgan.com/technology/applied-research) team at JPMorgan Chase.  
 
 Here, you can learn about my background, current research, and recent publications, and how to get in touch.
