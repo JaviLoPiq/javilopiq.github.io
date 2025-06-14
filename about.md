@@ -6,11 +6,11 @@ permalink: /about/
 
 # About Me
 
-I am a Research Scientist with a PhD in Theoretical Physics from the [University of Massachusetts, Amherst](https://www.umass.edu). 
+I am an Applied Research Scientist at [Global Technology Applied Research](https://www.jpmorgan.com/technology/applied-research) at JPMorgan Chase, where I focus on quantum-inspired and randomized algorithms.
 
-My graduate research has focused on using tools from Statistical Physics, Quantum Information, and efficient algorithms to tackle problems in Quantum Many-Body Dynamics. 
+I earned a PhD in Theoretical Physics from the University of Massachusetts, Amherst, under the supervision of [Romain Vasseur] (https://scholar.google.fr/citations?user=uhqFQUEAAAAJ&hl=fr) where my research centered on applying tools from statistical physics and quantum information to problems in quantum many-body dynamics.
 
-More recently, I have worked on industry-driven problems in ML and Optimization using quantum-inspired (tensor networks) algorithms. My contributions there include the development of constrained tensor networks for generative modeling and combinatorial optimization problems.
+Currently, my work applies quantum-inspired techniques — particularly tensor networks — to practical problems in machine learning and optimization. Recent contributions include the development of constrained tensor network architectures for generative modeling and combinatorial optimization, as well as leveraging tensor networks to improve the efficiency of large language models. 
 
 ### Background
 

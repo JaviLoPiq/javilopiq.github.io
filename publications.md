@@ -3,6 +3,10 @@ layout: page
 title: "Publications"
 permalink: /publications/
 ---
+**MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning**
+Javier Lopez-Piqueres, Pranav Deshpande, Archan Ray, Mattia J. Villani, Marco Pistoia, Niraj Kumar
+*Preprint*, June 2025 
+[[paper]](https://www.arxiv.org/pdf/2506.09105)
 
 **Tensor Network Estimation of Distribution Algorithms**  
 John Gardiner\*, Javier Lopez-Piqueres\*  
