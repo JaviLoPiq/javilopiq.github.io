@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
+
 **Cons-training tensor networks: Embedding and optimization over discrete linear constraints**   
 Javier Lopez-Piqueres, Jing Chen  
 *SciPost Physics*, June 2025 
