@@ -6,7 +6,7 @@ permalink: /publications/
 
 **Cons-training tensor networks: Embedding and optimization over discrete linear constraints**   
 Javier Lopez-Piqueres, Jing Chen  
-*SciPost Physics*, June 2025 
+*SciPost Physics*, June 2025  
 [[paper](https://www.scipost.org/SciPostPhys.18.6.192)] | [[preprint](https://arxiv.org/abs/2405.09005)] | [[code](https://github.com/JaviLoPiq/ConstrainTNet.jl)]
 
 **MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning**  
