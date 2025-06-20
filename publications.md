@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 ---
 
+**Cons-training tensor networks: Embedding and optimization over discrete linear constraints**   
+Javier Lopez-Piqueres, Jing Chen  
+*SciPost Physics*, June 2025 
+[[paper](https://www.scipost.org/SciPostPhys.18.6.192)] | [[code](https://github.com/JaviLoPiq/ConstrainTNet.jl)]
+
 **MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning**  
 Javier Lopez-Piqueres, Pranav Deshpande, Archan Ray, Mattia J. Villani, Marco Pistoia, Niraj Kumar  
 *Preprint*, June 2025  
@@ -18,11 +23,6 @@ John Gardiner\*, Javier Lopez-Piqueres\*
 Utkarsh Agrawal, Javier Lopez-Piqueres, Romain Vasseur, Sarang Gopalakrishnan, Andrew C. Potter  
 *Phys. Rev. X*, October 2024  
 [[paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.041012)] | [[code](https://github.com/JaviLoPiq/learnability_transitions)]  
-
-**Cons-training tensor networks**   
-Javier Lopez-Piqueres, Jing Chen  
-*Preprint*, May 2024  
-[[paper](https://arxiv.org/abs/2405.09005)] | [[code](https://github.com/JaviLoPiq/ConstrainTNet.jl)]
 
 **Symmetric tensor networks for generative modeling and constrained combinatorial optimization**  
 Javier Lopez-Piqueres, Jing Chen, Alejandro Perdomo-Ortiz  
