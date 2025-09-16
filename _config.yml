@@ -27,8 +27,9 @@ email: javier.lopezpiqueres@jpmchase.com
 #  Google search results) and in your feed.xml site description.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://javilopiq.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: JaviLoPiq
 twitter_username: JaviLoPiq
-github_username:  JaviLoPiq
+scholar_url: "https://scholar.google.com/citations?user=5bh9w4sAAAAJ&hl=en&oi=ao"
 
 # Build settings
 theme: minima
