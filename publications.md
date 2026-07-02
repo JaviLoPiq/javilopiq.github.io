@@ -4,20 +4,20 @@ title: "Publications"
 permalink: /publications/
 ---
 
+**MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning**  
+Javier Lopez-Piqueres, Pranav Deshpande, Archan Ray, Mattia J. Villani, Marco Pistoia, Niraj Kumar  
+*Transactions on Machine Learning Research (TMLR)*, June 2026  
+[[paper](https://openreview.net/forum?id=1HdcPWfA9s)] 
+
+**Tensor Network Estimation of Distribution Algorithms**  
+John Gardiner\*, Javier Lopez-Piqueres\*  
+*Paper*, May 2026
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226006521)] | [[preprint](https://arxiv.org/abs/2412.19780)] 
+
 **Cons-training tensor networks: Embedding and optimization over discrete linear constraints**   
 Javier Lopez-Piqueres, Jing Chen  
 *SciPost Physics*, June 2025  
 [[paper](https://www.scipost.org/SciPostPhys.18.6.192)] | [[preprint](https://arxiv.org/abs/2405.09005)] | [[code](https://github.com/JaviLoPiq/ConstrainTNet.jl)]
-
-**MetaTT: A Global Tensor-Train Adapter for Parameter-Efficient Fine-Tuning**  
-Javier Lopez-Piqueres, Pranav Deshpande, Archan Ray, Mattia J. Villani, Marco Pistoia, Niraj Kumar  
-*Preprint*, June 2025  
-[[preprint](https://www.arxiv.org/pdf/2506.09105)] 
-
-**Tensor Network Estimation of Distribution Algorithms**  
-John Gardiner\*, Javier Lopez-Piqueres\*  
-*Preprint*, December 2024  
-[[preprint](https://arxiv.org/abs/2412.19780)]
 
 **Observing Quantum Measurement Collapse as a Learnability Phase Transition**  
 Utkarsh Agrawal, Javier Lopez-Piqueres, Romain Vasseur, Sarang Gopalakrishnan, Andrew C. Potter  
